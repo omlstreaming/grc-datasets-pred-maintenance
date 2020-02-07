@@ -20,4 +20,5 @@ Some example data depicting the of the three sensors:
 |93.713|	73.996|	18.008|
 |93.709|	73.996|	18.009|
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3653909.svg)](https://doi.org/10.5281/zenodo.3653909)
 
